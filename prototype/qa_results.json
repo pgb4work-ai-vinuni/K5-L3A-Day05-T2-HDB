@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Nguồn sai được gắn cờ",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Hiện nguồn và cảnh báo kiểm chứng",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Chưa xác nhận thì hàng chờ vẫn rỗng",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Huỷ bản xem trước không gửi yêu cầu",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Xác nhận mới tạo yêu cầu TA",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Ngoài giờ không hứa thời điểm trả lời",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Chưa nhận xử lý thì chưa thể đăng FAQ",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Nhận xử lý chưa thay thế kiểm nguồn",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "TA kiểm nguồn mới mở bước duyệt đăng",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "FAQ chỉ xuất hiện sau duyệt",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Bài đang mở chỉ gợi ý bước đầu",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Gợi ý có thể ẩn",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Gợi ý có thể hiện lại",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "TA cũng không thể đăng FAQ bài đang mở",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Không xác nhận đáp số bài đang mở",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Tách hạn có nguồn và hàm chưa có nguồn",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Không dạy bịa nội dung buổi chưa mở",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Không đánh giá năng lực học viên",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Không nhận quyền gia hạn",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Ca chưa nhận diện đi vào hỏi lại",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Ca bình thường giải thích có nguồn",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Bài hết hạn có đáp án được giải thích đầy đủ",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Không tạo nội dung slide không có",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Câu mơ hồ được hỏi lại",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Sửa câu hỏi chọn lại nhánh đúng",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Rút yêu cầu trước khi TA nhận",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Nhận diện chữ Đ viết hoa",
+    "pass": true,
+    "detail": ""
+  },
+  {
+    "name": "Mở lại bản xem trước xoá thông báo cũ",
+    "pass": true,
+    "detail": ""
+  }
+]
