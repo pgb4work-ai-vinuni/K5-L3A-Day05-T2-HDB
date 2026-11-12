@@ -1,7 +1,5 @@
 ## Thành viên nhóm
 
-Bài nộp cần **danh sách thành viên** và **mỗi người làm gì**. Nhóm tự chia việc, không bắt buộc theo vai trò cố định. Ví dụ một cách chia (không bắt buộc): dựng prototype, viết câu chữ AI, giữ bảng kịch bản và kịch bản demo.
-
 **Lớp:** H210 (L3A) · **Bàn / zone:** Zone 8 · **Track:** 2
 
 | Họ và Tên | Mã Học Viên | Việc đã làm |
